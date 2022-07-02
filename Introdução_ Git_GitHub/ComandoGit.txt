@@ -1,0 +1,12 @@
+Inicializar o Git
+git init
+git remote add origin <nome do endereço onde está a pasta>
+
+Verificar status
+git remote --v
+
+Comitar
+git commit -m "nome do commit"
+
+Passar para o repositório
+git push origin main
